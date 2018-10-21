@@ -11,16 +11,21 @@
 1. JAS
 1. BPASPI
 
-# Badan Berkanun Persekutuan
+   # Badan Berkanun Persekutuan
 1. ASM
 1. MBOT
 1. IKM
 1. SEDA
 1. Suruhanjaya Tenaga
 
-# Syarikat
+   # Syarikat CLG
+1. MNPC
+1. MIGHT
+1. Greentech
 1. NANOMALAYSIA
 1. NIBM
+
+   # Syarikat GLC
 1. ATSB
 1. INNOBIO
 1. MDV
@@ -31,8 +36,9 @@
 1. MTDC
 1. MIMOS
 1. MNPC
-1. MIGHT
 1. CRADLE
-1. Greentech
+
+   # Yayasan
 1. Yayasan Hijau
-1. KMP
+
+
