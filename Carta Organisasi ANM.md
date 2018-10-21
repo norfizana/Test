@@ -1,45 +1,58 @@
-# Sektor KSU
-* UI
-* UKK/CEPA
-* UAD
-* Perundangan
-* Antarabangsa
+# Sektor KSU (Turus III)
+* UI (M2)
+* UKK (54T)
+* UAD (54)
+* Perundangan (54)
+* Antarabangsa (54)
 
 # Pengurusan (B)
 * PSM (C)
 * Kewangan (C)
-* Pembangunan (C)
-* Parlimen dan Keurusetiaan (C)
+* Pembangunan (54)
+* Parlimen dan Keurusetiaan (54)
+ * Penyelarasan Strategik (52)
+ * Parlimen (48)
 * PTM (54)
 * Pentadbiran (54)
 * Akaun (54)
 
-# TKSU Tenaga (A)
-* Perancangan dan Polisi Tenaaga (B)
-* Regulatori dan Pembangunan Industri Tenaga (C)
+# TKSU Tenaga (B)
+* Tenaga (C)
+ * Perancangan dan Dasar (54)
+ * Regulatori dan Pembangunan Industri Tenaga (54)
 * Tenaga Lestari (C)
-* Implementasi Polisi (Jurutera C)
+ * Perancangan dan Dasar (54)
+ * Regulatori dan Pembangunan Industri (54T)
+* SAPADU (Jurutera C)
+ * Penyelarasan dan Khidmat Pakar (54)
+ * Projek (54)
+* Kerjasama Strategik (48/52)
 
-# TKSU Sains, Teknologi dan Alam Sekitar
-## Alam Sekitar
-* Dasar
-* Perubahan Iklim
-* Konservasi Perhutanan
-
-## Sains dan Teknologi
-* Perancangan Strategik
-  * Foresight Technology
-  * MASTIC
-* Dana
-* ICT / Digital
-* Bioteknologi
-* Environment and Energy Technology (eTech)
-* Nanoteknologi
-* Industri
+# TKSU Sains, Teknologi dan Inovasi (A T)
+* Dasar Strategik (C)
+ * Perancangan dan Transformasi (54)
+ * Dasar STI (54)
+ * Tadbir Urus STI (54)
+ * Inisiatif Strategik (54)
+* Foresight & Emerging Technology (C)
+* Teknologi Strategik (C)
+* Bioteknologi (54)
+* Nanoteknologi (C)
+* Dana dan Pengkomersialan (C)
+* MASTIC (54)
+* Pembudayaan STI  / CEPA (C)
 
 Catatan: Setiap Bahagian di bawah Sektor STI mempunyai 5 komponen berikut:
-1. Pemindahan teknologi
-1. Pengkomersialan
 1. Bidang keutamaan
 1. Dasar (termasuk pemantauan)
 1. Urusan Jemaah Menteri
+
+
+# TKSU Alam Sekitar dan Perubahan Iklim (B)
+* Dasar Alam Sekitar (C)
+ * Kawalan Pencemaran (54)
+ * ASEAN, Kerjasama Serantau dan Pentadbiran (54)
+* Perubahan Iklim (C)
+ * Dasar Perubahan Iklim (54)
+ * Inventori dan Mitigasi (54)
+* Oseanografi (C)
